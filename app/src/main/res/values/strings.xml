@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Day Tracker</string>
+    <string name="entry_title_hint">Enter a title for the activity </string>
+    <string name="entry_title_Label">Title</string>
+    <string name="entry_details_hint">Event Details</string>
+    <string name="entry_details_label">Comments About entry</string>
+
+    <string name="work_label">Work</string>
+    <string name="leisure_label">Leisure</string>
+    <string name="sport_label">Sport</string>
+    <string name="study_label">Study</string>
+
+    <string name="button_save">Save</string>
+    <string name="button_delete">Delete</string>
+
+
+/////////////////////////////////////////////////////////////////////////////STRINGS FOR SETTINGS///
+    <string name="settings_name_hint">Enter your name</string>
+    <string name="settings_name_label">Name</string>
+    <string name="settings_comments_hint">Comments about self</string>
+    <string name="settings_comments_label">Comments</string>
+    <string name="settings_email_hint">Enter your email</string>
+    <string name="settings_email_label">Email:</string>
+    <string name="radioButton_female">Female</string>
+    <string name="radioButton_male">Male</string>
+    <string name="settings_gender">Gender</string>
+    <string name="choose_gender">Choose Gender</string>
+
+
+
+    <string name="date_picker_title">Date of Entry:</string>
+    /////////////////////////////////////////////////////////////////////////////STRINGS FOR MENUS//////
+    <string name="new_entry">Log New Entry</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="delete_entry">Delete Entry</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d entries</string>
+    <item name="settings_recycler_view" type="id"/>
+</resources>
